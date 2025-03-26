@@ -19,6 +19,7 @@ on:
           - noble
           - bookworm
           - bullseye
+          - trixie
       armbian_board:
         description: "Select device board."
         required: false
